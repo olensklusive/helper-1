@@ -1,0 +1,24 @@
+body {
+font: 17px Tahoma;
+background-image:url(images/wall2.jpg);
+}
+
+.just{
+text-decoration:underline;
+color:red;
+font-size:20px;
+}
+
+.do{
+text-decoration:underline;
+color:red;
+font-size:20px;
+}
+
+a{
+text-decoration:none;
+}
+
+a:hover{
+color:#00FF00;
+}
